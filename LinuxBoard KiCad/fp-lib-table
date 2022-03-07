@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "project-footprints")(type "KiCad")(uri "${KIPRJMOD}/project_libraries/project-footprints")(options "")(descr ""))
+  (lib (name "F1C100S")(type "Eagle")(uri "${KIPRJMOD}/project_libraries/eagle-symbols/F1C100S.lbr")(options "")(descr ""))
+  (lib (name "F1C100S (legacy)")(type "Legacy")(uri "${KIPRJMOD}/project_libraries/project-footprints/F1C100S.mod")(options "")(descr ""))
+)
